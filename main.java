@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MediaNotas {
+public class main.java {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
